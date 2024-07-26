@@ -1,0 +1,50 @@
+body{ background-color: rgb(74, 0, 170);}
+
+.colosso{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-around;
+}
+.titan{
+    width:20%;
+}
+.top{
+width: 50%;
+}
+.imagen1{
+    width: 40%;
+   
+}
+.imagen2{
+    width: 31.2%;
+}
+.imagen3{
+    width: 40%;
+}
+.imagen4{
+    width: 27.2%;
+}
+    .playyy{
+        display:flex;
+        justify-content: space-evenly;
+    }
+.bomdia{
+    background-color: rgb(21, 255, 0);
+    display: flex;
+    justify-content: space-around;
+}
+.boanite{ 
+    background-color: rgb(255, 0, 0);
+    display: flex;
+    justify-content:space-around;
+}
+.oimo{background-color: rgb(74, 0, 170);
+color: rgb(255, 255, 255);
+width: 25% ;
+}
+.GALINHA{
+    width: 20%;
+    
+}
+.aaaaaaaaaaaaaaa{background-color: rgb(146, 100, 255);}
